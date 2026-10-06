@@ -1,5 +1,5 @@
 # Representative bed file processor
-This tool is designed to parse [FLSR](https://github.com/kcleal/fslr) output files (representative bed files), and create excel files containing separate sheets for various categories of data.
+This tool is designed to parse [FSLR](https://github.com/kcleal/fslr) output files (representative bed files), and create excel files containing separate sheets for various categories of data.
 
 ## Installation
 This is a python tool, available on pypi. To install, run
