@@ -1,8 +1,7 @@
 build
 setuptools
 wheel
-pandas>=2.2.0
 click
-pathlib
 natsort
 openpyxl
+pandas>=2.2.0
