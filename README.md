@@ -4,7 +4,7 @@ This tool is designed to parse [FSLR](https://github.com/kcleal/fslr) output fil
 ## Installation
 This is a python tool, available on pypi. To install, run
 
-`pip install repbed_processor`
+`pip install repbed-processor`
 
 ## Running the tool
 
