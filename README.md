@@ -46,7 +46,7 @@ If you would like separate output files for each probe, use the `--split` (or `-
 Other options, such as logging and file name customisation, are detailed within the help message (see `--help`, above)
 
 ## Issues
-Please log issues on [GitHub](https://github.com/e-coral/repbed_processor)
+Please log issues on [GitHub](https://github.com/e-coral/repbed_processor/issues)
 
 ## Licence
 MIT (see LICENCE.txt)
